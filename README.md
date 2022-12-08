@@ -1,12 +1,12 @@
 # Computer-Control-with-Hand-Gesture
 
-This is my university 3rd Year project.
+This is my university 3rd Year Simple Python Project.
 
->>> Software and libraries I Use:
+Software and libraries I Use:
 
->> Software:
+Software:
     1.	Microsoft Visual Studio
->> Libraries:
+Libraries:
     1.	Open CV
     2.	Mediapipe
     3.	Pyautogui
